@@ -8,9 +8,8 @@ Java based distributed auction system using RMI and Jgroup based on a three-tier
   
   - Features include:
     - active replication
-    - user authentication (public/private key)
     - access control
-    - secure communication (public/private key)
+   
     
   
 Users can 
