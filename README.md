@@ -1,6 +1,6 @@
 # Auction-System
 
-Java based distributed actution system using RMI and Jgroup based on a three-tier architecture:
+Java based distributed auction system using RMI and Jgroup based on a three-tier architecture:
 
     - Replicas class (can create multiple replicas on the fly with consistent data)
     - front end server to handle any client requests
@@ -17,14 +17,10 @@ Users can
 
   - register
   - login
-  - create aution
-    - Name 
-    - Discritpion
-    - min starting bid
-    - reserve price
+  - create auction
   - delete auction
   - view other auctions
   - bid on other auctions
-  - etc
+  
 
 See diagram.pdf for more details
